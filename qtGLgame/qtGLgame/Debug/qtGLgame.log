@@ -1,0 +1,8 @@
+﻿  MyGLWindow.cpp
+d:\compsci9a\my source code\qtglgame\qtglgame\qtglgame\myglwindow.cpp(6): error C2065: 'GLEnum': undeclared identifier
+d:\compsci9a\my source code\qtglgame\qtglgame\qtglgame\myglwindow.cpp(6): error C2146: syntax error: missing ';' before identifier 'errorCode'
+d:\compsci9a\my source code\qtglgame\qtglgame\qtglgame\myglwindow.cpp(6): error C2065: 'errorCode': undeclared identifier
+d:\compsci9a\my source code\qtglgame\qtglgame\qtglgame\myglwindow.cpp(6): error C3861: 'glewInit': identifier not found
+d:\compsci9a\my source code\qtglgame\qtglgame\qtglgame\myglwindow.cpp(7): error C2065: 'errorCode': undeclared identifier
+  main.cpp
+  Generating Code...
